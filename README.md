@@ -49,6 +49,18 @@ Visual Studio 2026
 4. `Linker → Input → Additional Dependencies`: `SDL2.lib`, `SDL2main.lib`, `SDL2_ttf.lib`
 5. Скопируй `SDL2.dll` и `SDL2_ttf.dll` в папку с `.exe`. Положи `arial.ttf` в корень.
 
+## 📥 Готовый установщик
+Для быстрого запуска без настройки среды скачай установщик:
+👉 [Скачать `GameBlocks-Setup.exe`](https://github.com/headache8/GameBlocks/releases/latest)
+
+Установщик включает:
+- ✅ Скомпилированную игру `.exe`
+- ✅ Все зависимости (`SDL2.dll`, `SDL2_ttf.dll`)
+- ✅ Шрифт `arial.ttf`
+- ✅ Ярлык на рабочем столе (опционально)
+- ✅ Автоматическую регистрацию расширений (если нужно)
+
+> 💡 Файл `save.dat` и таблица рекордов создаются при первом запуске в папке `%APPDATA%\GameBlocks\` (или рядом с `.exe`).
 
 
 
