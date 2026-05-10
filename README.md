@@ -5,7 +5,6 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-000000?style=for-the-badge&logo=libsdl&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Coursework](https://img.shields.io/badge/Курсовая-5C2D91?style=for-the-badge)
 
 ## 📖 Оглавление
