@@ -52,7 +52,7 @@ Visual Studio 2026
 
 ## 📥 Готовый установщик
 Для быстрого запуска без настройки среды скачай установщик:
-👉 [Скачать `GameBlocks-Setup.exe`](https://github.com/headache8/GameBlocks/releases/latest)
+👉 📥 [Скачать установщик](https://github.com/headache8/CourseWork/releases/download/v1.0.0/НАЗВАНИЕ_ФАЙЛА.exe)
 
 Установщик включает:
 - ✅ Скомпилированную игру `.exe`
